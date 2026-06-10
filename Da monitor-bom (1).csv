@@ -1,0 +1,11 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"LED","Power indicator",1,0.00,"","Already owned"
+"3D Printed Enclosure","Houses the PCB and display",1,0.00,"","Self printed"
+"Custom PCB","Main circuit board",1,7.12,"","JLCPCB"
+"ESP32-C3 SuperMini","Microcontroller / brain",1,2.42,"https://a.aliexpress.com/_mtjDEsB","AliExpress"
+"AHT20 Sensor","Temperature & humidity",1,1.43,"https://a.aliexpress.com/_mMzGEsf","AliExpress"
+"WeAct 2.13in E-ink Display","Display readings",1,9.33,"https://a.aliexpress.com/_mrdmeVv","AliExpress"
+"0603 Resistor","Pull-ups and current limiting",1,2.00,"https://a.aliexpress.com/_mKQ0g5h","AliExpress"
+"0603 Capacitor ","Power decoupling",1,2.80,"https://a.aliexpress.com/_mL6Cjv9","AliExpress"
+"Tactile Push Button","User input",1,1.22,"https://a.aliexpress.com/_mMQgLiR","AliExpress"
+"Pin Headers 2.54mm","Sensor and display connectors",1,1.65,"https://a.aliexpress.com/_mqybfFt","AliExpress"
