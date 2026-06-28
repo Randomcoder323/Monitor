@@ -1,5 +1,18 @@
 # Monitor Ink screen 
 
+# Video (https://youtube.com/shorts/6vjEf3cSFMw?is=6Dij9VCFbH3eCB1K)
+
+# Build
+
+this project had many small components that I had to get used to which took a bit of time. the mcu has to be bottom mounted for the connections to be correct
+<img width="3000" height="3000" alt="1000024688" src="https://github.com/user-attachments/assets/a457369e-1e4f-4129-94f0-13260afc0300" />
+<img width="3000" height="3000" alt="1000024685" src="https://github.com/user-attachments/assets/b7a232d3-fccf-4bca-82ce-30e75654a8d5" />
+<img width="3000" height="3000" alt="1000024686" src="https://github.com/user-attachments/assets/62ab7c94-9991-4965-9eb9-a985b9c9199d" />
+
+
+<img width="3000" height="3000" alt="1000024671" src="https://github.com/user-attachments/assets/c52df751-78d4-44a6-9087-d2f49be448d0" />
+
+
 ## What
 air quality monitor that displays CO2,temperature, and humidity readings on e-ink screen. Built using the SCD40 sensor and an ESP32-C3 SuperMini, it sits on your desk and tells you when your room air dirty and it's time to open a window. It will uses usb c for power
 
